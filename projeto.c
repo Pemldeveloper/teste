@@ -3,6 +3,6 @@
 
 int main(){
 
-	printf("Teste ok!\n");
+	printf("Teste do projeto ok!\n");
 	return 0;
 }
